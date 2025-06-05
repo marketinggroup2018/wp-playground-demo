@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "steps": [
+    {
+      "step": "installPlugin",
+      "pluginZipUrl": "https://downloads.wordpress.org/plugin/web-stories.latest-stable.zip"
+    }
+  ]
+}
